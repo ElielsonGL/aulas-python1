@@ -17,6 +17,5 @@ lista = [10, 20, 30]
 tam = len(lista) #len conta os elementos dentro da lista
 print("A lista", lista, " tem tamanho", tam)
 
-soma = sum(lista)
+soma = sum(lista) #sum soma os elementos
 print("A lista", lista, " tem um somatório", soma)
-
